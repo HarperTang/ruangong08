@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">taoti</string>
+    <string name="takephoto">对齐参考线进行拍照</string>
+    <string name="request_permission">是否允许“淘题”拍摄照片</string>
+    <string name="request_permission_error">没有拍摄权限</string>
+    <string name="cropimage">选择您需要提问的题目</string>
+</resources>
